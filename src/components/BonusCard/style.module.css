@@ -1,0 +1,22 @@
+.bonus__quantity {
+  color: #000;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.bonus__burning {
+  padding-top: 12px;
+  color: #979797;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.bonus__details {
+  cursor: pointer;
+}

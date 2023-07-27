@@ -1,0 +1,1 @@
+export const identifyDevice = navigator.userAgent.toLowerCase()
