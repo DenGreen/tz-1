@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kpk-tz-1/static/css/main.40ac3209.css",
+    "main.js": "/kpk-tz-1/static/js/main.ceb07d99.js",
+    "index.html": "/kpk-tz-1/index.html",
+    "main.40ac3209.css.map": "/kpk-tz-1/static/css/main.40ac3209.css.map",
+    "main.ceb07d99.js.map": "/kpk-tz-1/static/js/main.ceb07d99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ac3209.css",
+    "static/js/main.ceb07d99.js"
+  ]
+}
